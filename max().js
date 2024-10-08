@@ -9,4 +9,3 @@ var max = (masiv) => {
     return a
 
 }
-console.log(max([1,4,5,6,84,6,5]))
