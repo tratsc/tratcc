@@ -16,4 +16,3 @@ var Bubble_sorting = (arr) => {
     
     return arr
 }
-console.log(max([1,1,1,15,1,1,1]))
